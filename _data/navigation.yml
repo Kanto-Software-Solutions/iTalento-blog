@@ -1,0 +1,15 @@
+- title: Inicio
+  url: "/"
+  side: left
+
+- title: "Diseño"
+  url: "/design/"
+  side: left
+
+- title: "Tecnología"
+  url: "/headers/"
+  side: left
+
+- title: "Búsqueda"
+  url: "/search/"
+  side: right
