@@ -1,14 +1,14 @@
-- menu_name: "Services"
+- menu_name: "Servicios"
 
-- name: "Contact"
-  url: "/contact/"
-  title: "Contact"
+- name: "iTalento"
+  url: "https://italento.shop"
+  title: "iTalento"
 
-- name: "RSS"
-  url: "/feed.xml"
+- name: "Instagram"
+  url: "https://www.instagram.com/italento_"
   title: "Subscribe to RSS Feed"
 
-- name: "Atom"
+- name: "Facebook"
   url: "/atom.xml"
   title: "Subscribe to Atom Feed"
 
